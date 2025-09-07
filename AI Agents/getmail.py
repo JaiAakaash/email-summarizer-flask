@@ -45,8 +45,8 @@ except socket.gaierror as e:
 
 
 # Email and password (keep safely, or ask user to input)
-EMAIL = "jaiaakaash06@gmail.com"
-APP_PASSWORD = "fbws ojvw kxco ihej"
+EMAIL = "you mail id"
+APP_PASSWORD = "your apllication password"
 
 def fetch_and_summarize_emails():
     emails = []
